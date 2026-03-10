@@ -75,4 +75,6 @@ This type of analysis can help operations teams:
 3. improve factory productivity
 
 ## Dashboard Screenshot
+<img width="1821" height="839" alt="Machine Downtime Analysis" src="https://github.com/user-attachments/assets/68d354e8-06c9-4f98-84b6-669afff7ae4b" />
+
 
