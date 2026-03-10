@@ -66,7 +66,7 @@ This makes it easy to quickly identify which machines are responsible for failur
 
 #### Key Insight
 
-By selecting the factory with the highest downtime, the dashboard reveals the specific machine types contributing most to the failures.
+By selecting the factory with the highest downtime, the dashboard reveals the specific machine types contributing most to the failures which was in Daikibo Factory Seiko – Osaka, Japan(Laser welder)
 
 This type of analysis can help operations teams:
 
