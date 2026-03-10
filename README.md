@@ -7,9 +7,9 @@ Using Tableau, telemetry messages were analyzed to calculate machine downtime an
 
 The goal of this analysis was to answer two key questions:
 
-. Which factory experienced the most machine downtime?
+- Which factory experienced the most machine downtime?
 
-. Which machine types contributed the most to downtime in that factory?
+- Which machine types contributed the most to downtime in that factory?
 
 ## Dataset
 
@@ -17,13 +17,10 @@ The dataset contains telemetry messages collected every 10 minutes from machines
 
 ## Factory Locations
 
-. Daikibo Factory Meiyo – Tokyo, Japan
-
-. Daikibo Factory Seiko – Osaka, Japan
-
-. Daikibo Berlin – Berlin, Germany
-
-. Daikibo Shenzhen – Shenzhen, China
+1. Daikibo Factory Meiyo – Tokyo, Japan
+2. Daikibo Factory Seiko – Osaka, Japan
+3. Daikibo Berlin – Berlin, Germany
+4. Daikibo Shenzhen – Shenzhen, China
 
 Each factory has 9 different machine types sending status updates every 10 minutes.
 
@@ -55,12 +52,9 @@ This allows Tableau to sum downtime across machines and locations.
 Two bar charts were created:
 
 1. Down Time per Factory
-
-Shows the total downtime for each factory.
-
+   - Shows the total downtime for each factory.
 2. Down Time per Device Type
-
-Shows which machine types experienced the most downtime.
+   - Shows which machine types experienced the most downtime.
 
 ### Interactive Dashboard
 
@@ -77,9 +71,8 @@ By selecting the factory with the highest downtime, the dashboard reveals the sp
 This type of analysis can help operations teams:
 
 1. detect reliability issues
-
 2. prioritize maintenance
-
 3. improve factory productivity
 
 ## Dashboard Screenshot
+
